@@ -1,1 +1,1 @@
-calc.exe
+cmd.exe /c "ipconfig > c:\pwn.txt"
